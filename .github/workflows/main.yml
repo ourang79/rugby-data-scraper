@@ -5,6 +5,10 @@ on:
     - cron: '0 20 * * 0' # Se ejecuta los domingos a las 20:00 UTC
   workflow_dispatch: # Botón manual
 
+  # ESTO ES LO QUE SOLUCIONA EL ERROR 128
+permissions:
+  contents: write
+
 jobs:
   actualizar-datos:
     runs-on: ubuntu-latest
