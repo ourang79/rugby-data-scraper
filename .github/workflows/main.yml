@@ -3,7 +3,7 @@ name: Scraper Rugby isquad
 on:
   schedule:
     - cron: '0 20 * * 0' # Se ejecuta los domingos a las 20:00 UTC
-  workflow_dispatch: # Te permite darle a un botón de "Play" manual
+  workflow_dispatch: # Botón manual
 
 jobs:
   actualizar-datos:
@@ -18,7 +18,7 @@ jobs:
           python-version: '3.10'
 
       - name: Ejecutar Scraper
-        run: python tu_archivo.py # <-- CAMBIA "tu_archivo.py" POR EL NOMBRE REAL DE TU SCRIPT
+        run: python scripts/scrape.py
 
       - name: Guardar los JSON en GitHub
         run: |
@@ -27,5 +27,3 @@ jobs:
           git add data/
           git commit -m "Actualización de resultados" || echo "No hay cambios para subir"
           git push
-if __name__ == "__main__":
-    main()
