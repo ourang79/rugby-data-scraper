@@ -1,14 +1,14 @@
 {
-  "last_update": "2026-05-03T20:40:09Z",
+  "last_update": "2026-05-10T20:42:56Z",
   "territorial": "Castilla y León",
   "torneos": [
     {
       "id": "521",
       "nombre": "Liga Senior Femenino",
       "file": "521.json",
-      "equipos": 0,
-      "partidos": 0,
-      "anotadores": 0
+      "equipos": 6,
+      "partidos": 30,
+      "anotadores": 78
     }
   ]
 }

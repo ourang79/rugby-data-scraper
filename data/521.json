@@ -1,12 +1,2501 @@
 {
   "torneo_id": "521",
   "nombre": "Liga Senior Femenino",
-  "timestamp": "2026-05-03T20:40:09Z",
-  "clasificacion": [],
-  "partidos": [],
+  "timestamp": "2026-05-10T20:42:56Z",
+  "clasificacion": [
+    {
+      "posicion": 1,
+      "nombre": "C.R. EL SALVADOR EMERGING",
+      "equipo_id": "619",
+      "escudo_url": "",
+      "racha": [
+        "G",
+        "G",
+        "G",
+        "G",
+        "G"
+      ],
+      "puntos": 40,
+      "jugados": 10,
+      "ganados": 8,
+      "empatados": 1,
+      "perdidos": 1,
+      "tantos_favor": 316,
+      "tantos_contra": 104,
+      "dif_tantos": 212,
+      "ensayos_favor": 55,
+      "ensayos_contra": 18,
+      "dif_ensayos": 37,
+      "bonus_ofensivo": 6,
+      "bonus_defensivo": 0
+    },
+    {
+      "posicion": 2,
+      "nombre": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+      "equipo_id": "390",
+      "escudo_url": "",
+      "racha": [
+        "G",
+        "G",
+        "P",
+        "G",
+        "G"
+      ],
+      "puntos": 40,
+      "jugados": 10,
+      "ganados": 8,
+      "empatados": 0,
+      "perdidos": 2,
+      "tantos_favor": 589,
+      "tantos_contra": 66,
+      "dif_tantos": 523,
+      "ensayos_favor": 92,
+      "ensayos_contra": 11,
+      "dif_ensayos": 81,
+      "bonus_ofensivo": 7,
+      "bonus_defensivo": 1
+    },
+    {
+      "posicion": 3,
+      "nombre": "CORMORÁN RUGBY CLUB DE SANTANDER",
+      "equipo_id": "1743",
+      "escudo_url": "",
+      "racha": [
+        "P",
+        "G",
+        "G",
+        "P",
+        "P"
+      ],
+      "puntos": 27,
+      "jugados": 10,
+      "ganados": 5,
+      "empatados": 1,
+      "perdidos": 4,
+      "tantos_favor": 252,
+      "tantos_contra": 156,
+      "dif_tantos": 96,
+      "ensayos_favor": 42,
+      "ensayos_contra": 26,
+      "dif_ensayos": 16,
+      "bonus_ofensivo": 4,
+      "bonus_defensivo": 1
+    },
+    {
+      "posicion": 4,
+      "nombre": "1 GIJÓN RUGBY CLUB SENIOR FEMENINO",
+      "equipo_id": "359",
+      "escudo_url": "",
+      "racha": [
+        "P",
+        "P",
+        "P",
+        "P",
+        "G"
+      ],
+      "puntos": 20,
+      "jugados": 10,
+      "ganados": 4,
+      "empatados": 0,
+      "perdidos": 6,
+      "tantos_favor": 189,
+      "tantos_contra": 333,
+      "dif_tantos": -144,
+      "ensayos_favor": 32,
+      "ensayos_contra": 54,
+      "dif_ensayos": -22,
+      "bonus_ofensivo": 3,
+      "bonus_defensivo": 1
+    },
+    {
+      "posicion": 5,
+      "nombre": "1 UNIVERSIDAD DE SALAMANCA",
+      "equipo_id": "537",
+      "escudo_url": "",
+      "racha": [
+        "P",
+        "P",
+        "P",
+        "P",
+        "P"
+      ],
+      "puntos": 1,
+      "jugados": 10,
+      "ganados": 0,
+      "empatados": 0,
+      "perdidos": 10,
+      "tantos_favor": 68,
+      "tantos_contra": 534,
+      "dif_tantos": -466,
+      "ensayos_favor": 12,
+      "ensayos_contra": 89,
+      "dif_ensayos": -77,
+      "bonus_ofensivo": 0,
+      "bonus_defensivo": 1
+    },
+    {
+      "posicion": 6,
+      "nombre": "-2 CIUDAD DE OVIEDO RUGBY",
+      "equipo_id": "233",
+      "escudo_url": "",
+      "racha": [
+        "G",
+        "P",
+        "G",
+        "G",
+        "P"
+      ],
+      "puntos": 17,
+      "jugados": 10,
+      "ganados": 4,
+      "empatados": 0,
+      "perdidos": 6,
+      "tantos_favor": 107,
+      "tantos_contra": 328,
+      "dif_tantos": -221,
+      "ensayos_favor": 18,
+      "ensayos_contra": 53,
+      "dif_ensayos": -35,
+      "bonus_ofensivo": 1,
+      "bonus_defensivo": 0
+    }
+  ],
+  "partidos": [
+    {
+      "local": "C.R. EL SALVADOR EMERGING",
+      "local_id": "619",
+      "visitante": "UNIVERSIDAD DE SALAMANCA",
+      "visitante_id": "537",
+      "local_score": 42,
+      "visitante_score": 20,
+      "jugado": true,
+      "fecha": "2025-10-04",
+      "hora": "0:00",
+      "lugar": "CAMPOS DE RUGBY DE PEPE ROJO (INSTALACIONES DEPORTIVAS CIUDAD DE VALLADOLID)",
+      "lugar_coords": "41.659683,-4.6731003",
+      "jornada": "",
+      "estado": "jugado"
+    },
+    {
+      "local": "GIJÓN RUGBY CLUB SENIOR FEMENINO",
+      "local_id": "359",
+      "visitante": "CIUDAD DE OVIEDO RUGBY",
+      "visitante_id": "233",
+      "local_score": 20,
+      "visitante_score": 12,
+      "jugado": true,
+      "fecha": "2025-10-04",
+      "hora": "0:00",
+      "lugar": "CAMPO DE RUGBY LA LABORAL",
+      "lugar_coords": "43.52452520000001,-5.623142899999999",
+      "jornada": "",
+      "estado": "jugado"
+    },
+    {
+      "local": "CORMORÁN RUGBY CLUB DE SANTANDER",
+      "local_id": "1743",
+      "visitante": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+      "visitante_id": "390",
+      "local_score": 19,
+      "visitante_score": 27,
+      "jugado": true,
+      "fecha": "",
+      "hora": "",
+      "lugar": "CAMPO DE SAN ROMÁN",
+      "lugar_coords": "43.4696737,-3.851578700000001",
+      "jornada": "",
+      "estado": "jugado"
+    },
+    {
+      "local": "UNIVERSIDAD DE SALAMANCA",
+      "local_id": "537",
+      "visitante": "CORMORÁN RUGBY CLUB DE SANTANDER",
+      "visitante_id": "1743",
+      "local_score": 0,
+      "visitante_score": 40,
+      "jugado": true,
+      "fecha": "2025-10-18",
+      "hora": "0:00",
+      "lugar": "COMPLEJO DEPORTIVO UNIVERSITARIO SALAS BAJAS",
+      "lugar_coords": "40.960431,-5.677468999999999",
+      "jornada": "",
+      "estado": "jugado"
+    },
+    {
+      "local": "CIUDAD DE OVIEDO RUGBY",
+      "local_id": "233",
+      "visitante": "C.R. EL SALVADOR EMERGING",
+      "visitante_id": "619",
+      "local_score": 0,
+      "visitante_score": 55,
+      "jugado": true,
+      "fecha": "2025-10-18",
+      "hora": "0:00",
+      "lugar": "CAMPO DE RUGBY DE EL NARANCO",
+      "lugar_coords": "43.3727953491754,-5.866887368678277",
+      "jornada": "",
+      "estado": "jugado"
+    },
+    {
+      "local": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+      "local_id": "390",
+      "visitante": "GIJÓN RUGBY CLUB SENIOR FEMENINO",
+      "visitante_id": "359",
+      "local_score": 69,
+      "visitante_score": 0,
+      "jugado": true,
+      "fecha": "2025-10-18",
+      "hora": "0:00",
+      "lugar": "CAMPOS DE RUGBY DE PEPE ROJO (INSTALACIONES DEPORTIVAS CIUDAD DE VALLADOLID)",
+      "lugar_coords": "41.659683,-4.6731003",
+      "jornada": "",
+      "estado": "jugado"
+    },
+    {
+      "local": "UNIVERSIDAD DE SALAMANCA",
+      "local_id": "537",
+      "visitante": "CIUDAD DE OVIEDO RUGBY",
+      "visitante_id": "233",
+      "local_score": 12,
+      "visitante_score": 18,
+      "jugado": true,
+      "fecha": "2025-10-25",
+      "hora": "0:00",
+      "lugar": "COMPLEJO DEPORTIVO UNIVERSITARIO SALAS BAJAS",
+      "lugar_coords": "40.960431,-5.677468999999999",
+      "jornada": "",
+      "estado": "jugado"
+    },
+    {
+      "local": "C.R. EL SALVADOR EMERGING",
+      "local_id": "619",
+      "visitante": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+      "visitante_id": "390",
+      "local_score": 30,
+      "visitante_score": 10,
+      "jugado": true,
+      "fecha": "2025-10-25",
+      "hora": "0:00",
+      "lugar": "CAMPOS DE RUGBY DE PEPE ROJO (INSTALACIONES DEPORTIVAS CIUDAD DE VALLADOLID)",
+      "lugar_coords": "41.659683,-4.6731003",
+      "jornada": "",
+      "estado": "jugado"
+    },
+    {
+      "local": "CORMORÁN RUGBY CLUB DE SANTANDER",
+      "local_id": "1743",
+      "visitante": "GIJÓN RUGBY CLUB SENIOR FEMENINO",
+      "visitante_id": "359",
+      "local_score": 34,
+      "visitante_score": 17,
+      "jugado": true,
+      "fecha": "2025-10-25",
+      "hora": "0:00",
+      "lugar": "CAMPO DE SAN ROMÁN",
+      "lugar_coords": "43.4696737,-3.851578700000001",
+      "jornada": "",
+      "estado": "jugado"
+    },
+    {
+      "local": "GIJÓN RUGBY CLUB SENIOR FEMENINO",
+      "local_id": "359",
+      "visitante": "C.R. EL SALVADOR EMERGING",
+      "visitante_id": "619",
+      "local_score": 38,
+      "visitante_score": 17,
+      "jugado": true,
+      "fecha": "2025-11-16",
+      "hora": "12:15",
+      "lugar": "CAMPO DE RUGBY LA LABORAL",
+      "lugar_coords": "43.52452520000001,-5.623142899999999",
+      "jornada": "",
+      "estado": "jugado"
+    },
+    {
+      "local": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+      "local_id": "390",
+      "visitante": "UNIVERSIDAD DE SALAMANCA",
+      "visitante_id": "537",
+      "local_score": 98,
+      "visitante_score": 0,
+      "jugado": true,
+      "fecha": "2025-11-15",
+      "hora": "12:00",
+      "lugar": "CAMPOS DE RUGBY DE PEPE ROJO (INSTALACIONES DEPORTIVAS CIUDAD DE VALLADOLID)",
+      "lugar_coords": "41.659683,-4.6731003",
+      "jornada": "",
+      "estado": "jugado"
+    },
+    {
+      "local": "CORMORÁN RUGBY CLUB DE SANTANDER",
+      "local_id": "1743",
+      "visitante": "CIUDAD DE OVIEDO RUGBY",
+      "visitante_id": "233",
+      "local_score": 22,
+      "visitante_score": 0,
+      "jugado": true,
+      "fecha": "2025-11-09",
+      "hora": "12:00",
+      "lugar": "CAMPO DE SAN ROMÁN",
+      "lugar_coords": "43.4696737,-3.851578700000001",
+      "jornada": "",
+      "estado": "jugado"
+    },
+    {
+      "local": "CIUDAD DE OVIEDO RUGBY",
+      "local_id": "233",
+      "visitante": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+      "visitante_id": "390",
+      "local_score": 0,
+      "visitante_score": 66,
+      "jugado": true,
+      "fecha": "2025-11-30",
+      "hora": "13:30",
+      "lugar": "CAMPO DE RUGBY DE EL NARANCO",
+      "lugar_coords": "43.3727953491754,-5.866887368678277",
+      "jornada": "",
+      "estado": "jugado"
+    },
+    {
+      "local": "C.R. EL SALVADOR EMERGING",
+      "local_id": "619",
+      "visitante": "CORMORÁN RUGBY CLUB DE SANTANDER",
+      "visitante_id": "1743",
+      "local_score": 24,
+      "visitante_score": 24,
+      "jugado": true,
+      "fecha": "",
+      "hora": "",
+      "lugar": "CAMPOS DE RUGBY DE PEPE ROJO (INSTALACIONES DEPORTIVAS CIUDAD DE VALLADOLID)",
+      "lugar_coords": "41.659683,-4.6731003",
+      "jornada": "",
+      "estado": "jugado"
+    },
+    {
+      "local": "UNIVERSIDAD DE SALAMANCA",
+      "local_id": "537",
+      "visitante": "GIJÓN RUGBY CLUB SENIOR FEMENINO",
+      "visitante_id": "359",
+      "local_score": 14,
+      "visitante_score": 25,
+      "jugado": true,
+      "fecha": "2025-11-29",
+      "hora": "16:00",
+      "lugar": "COMPLEJO DEPORTIVO UNIVERSITARIO SALAS BAJAS",
+      "lugar_coords": "40.960431,-5.677468999999999",
+      "jornada": "",
+      "estado": "jugado"
+    },
+    {
+      "local": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+      "local_id": "390",
+      "visitante": "CORMORÁN RUGBY CLUB DE SANTANDER",
+      "visitante_id": "1743",
+      "local_score": 50,
+      "visitante_score": 5,
+      "jugado": true,
+      "fecha": "2026-02-28",
+      "hora": "12:30",
+      "lugar": "CAMPOS DE RUGBY DE PEPE ROJO (INSTALACIONES DEPORTIVAS CIUDAD DE VALLADOLID)",
+      "lugar_coords": "41.659683,-4.6731003",
+      "jornada": "",
+      "estado": "jugado"
+    },
+    {
+      "local": "UNIVERSIDAD DE SALAMANCA",
+      "local_id": "537",
+      "visitante": "C.R. EL SALVADOR EMERGING",
+      "visitante_id": "619",
+      "local_score": 7,
+      "visitante_score": 44,
+      "jugado": true,
+      "fecha": "2025-12-13",
+      "hora": "16:00",
+      "lugar": "COMPLEJO DEPORTIVO UNIVERSITARIO SALAS BAJAS",
+      "lugar_coords": "40.960431,-5.677468999999999",
+      "jornada": "",
+      "estado": "jugado"
+    },
+    {
+      "local": "CIUDAD DE OVIEDO RUGBY",
+      "local_id": "233",
+      "visitante": "GIJÓN RUGBY CLUB SENIOR FEMENINO",
+      "visitante_id": "359",
+      "local_score": 18,
+      "visitante_score": 17,
+      "jugado": true,
+      "fecha": "2025-12-13",
+      "hora": "16:00",
+      "lugar": "CAMPO DE RUGBY DE EL NARANCO",
+      "lugar_coords": "43.3727953491754,-5.866887368678277",
+      "jornada": "",
+      "estado": "jugado"
+    },
+    {
+      "local": "CORMORÁN RUGBY CLUB DE SANTANDER",
+      "local_id": "1743",
+      "visitante": "UNIVERSIDAD DE SALAMANCA",
+      "visitante_id": "537",
+      "local_score": 72,
+      "visitante_score": 0,
+      "jugado": true,
+      "fecha": "2026-02-08",
+      "hora": "15:00",
+      "lugar": "CAMPO DE RUGBY JOSE RAMON RINCON",
+      "lugar_coords": "43.362193,-4.0594377",
+      "jornada": "",
+      "estado": "jugado"
+    },
+    {
+      "local": "GIJÓN RUGBY CLUB SENIOR FEMENINO",
+      "local_id": "359",
+      "visitante": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+      "visitante_id": "390",
+      "local_score": 0,
+      "visitante_score": 87,
+      "jugado": true,
+      "fecha": "2026-01-18",
+      "hora": "13:30",
+      "lugar": "CAMPO DE RUGBY LA LABORAL",
+      "lugar_coords": "43.52452520000001,-5.623142899999999",
+      "jornada": "",
+      "estado": "jugado"
+    },
+    {
+      "local": "C.R. EL SALVADOR EMERGING",
+      "local_id": "619",
+      "visitante": "CIUDAD DE OVIEDO RUGBY",
+      "visitante_id": "233",
+      "local_score": 41,
+      "visitante_score": 0,
+      "jugado": true,
+      "fecha": "2026-01-17",
+      "hora": "16:00",
+      "lugar": "CAMPOS DE RUGBY DE PEPE ROJO (INSTALACIONES DEPORTIVAS CIUDAD DE VALLADOLID)",
+      "lugar_coords": "41.659683,-4.6731003",
+      "jornada": "",
+      "estado": "jugado"
+    },
+    {
+      "local": "CIUDAD DE OVIEDO RUGBY",
+      "local_id": "233",
+      "visitante": "UNIVERSIDAD DE SALAMANCA",
+      "visitante_id": "537",
+      "local_score": 41,
+      "visitante_score": 0,
+      "jugado": true,
+      "fecha": "2026-02-28",
+      "hora": "16:00",
+      "lugar": "CAMPO DE RUGBY DE EL NARANCO",
+      "lugar_coords": "43.3727953491754,-5.866887368678277",
+      "jornada": "",
+      "estado": "jugado"
+    },
+    {
+      "local": "GIJÓN RUGBY CLUB SENIOR FEMENINO",
+      "local_id": "359",
+      "visitante": "CORMORÁN RUGBY CLUB DE SANTANDER",
+      "visitante_id": "1743",
+      "local_score": 10,
+      "visitante_score": 26,
+      "jugado": true,
+      "fecha": "",
+      "hora": "",
+      "lugar": "CAMPO DE RUGBY LA LABORAL",
+      "lugar_coords": "43.52452520000001,-5.623142899999999",
+      "jornada": "",
+      "estado": "jugado"
+    },
+    {
+      "local": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+      "local_id": "390",
+      "visitante": "C.R. EL SALVADOR EMERGING",
+      "visitante_id": "619",
+      "local_score": 0,
+      "visitante_score": 7,
+      "jugado": true,
+      "fecha": "2026-01-31",
+      "hora": "14:00",
+      "lugar": "CAMPOS DE RUGBY DE PEPE ROJO (INSTALACIONES DEPORTIVAS CIUDAD DE VALLADOLID)",
+      "lugar_coords": "41.659683,-4.6731003",
+      "jornada": "",
+      "estado": "jugado"
+    },
+    {
+      "local": "CIUDAD DE OVIEDO RUGBY",
+      "local_id": "233",
+      "visitante": "CORMORÁN RUGBY CLUB DE SANTANDER",
+      "visitante_id": "1743",
+      "local_score": 18,
+      "visitante_score": 5,
+      "jugado": true,
+      "fecha": "2026-02-21",
+      "hora": "16:00",
+      "lugar": "CAMPO DE RUGBY DE EL NARANCO",
+      "lugar_coords": "43.3727953491754,-5.866887368678277",
+      "jornada": "",
+      "estado": "jugado"
+    },
+    {
+      "local": "UNIVERSIDAD DE SALAMANCA",
+      "local_id": "537",
+      "visitante": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+      "visitante_id": "390",
+      "local_score": 5,
+      "visitante_score": 92,
+      "jugado": true,
+      "fecha": "2026-02-21",
+      "hora": "16:00",
+      "lugar": "COMPLEJO DEPORTIVO UNIVERSITARIO SALAS BAJAS",
+      "lugar_coords": "40.960431,-5.677468999999999",
+      "jornada": "",
+      "estado": "jugado"
+    },
+    {
+      "local": "C.R. EL SALVADOR EMERGING",
+      "local_id": "619",
+      "visitante": "GIJÓN RUGBY CLUB SENIOR FEMENINO",
+      "visitante_id": "359",
+      "local_score": 46,
+      "visitante_score": 0,
+      "jugado": true,
+      "fecha": "2026-02-21",
+      "hora": "16:00",
+      "lugar": "CAMPOS DE RUGBY DE PEPE ROJO (INSTALACIONES DEPORTIVAS CIUDAD DE VALLADOLID)",
+      "lugar_coords": "41.659683,-4.6731003",
+      "jornada": "",
+      "estado": "jugado"
+    },
+    {
+      "local": "CORMORÁN RUGBY CLUB DE SANTANDER",
+      "local_id": "1743",
+      "visitante": "C.R. EL SALVADOR EMERGING",
+      "visitante_id": "619",
+      "local_score": 5,
+      "visitante_score": 10,
+      "jugado": true,
+      "fecha": "2026-03-08",
+      "hora": "14:00",
+      "lugar": "CAMPO DE SAN ROMÁN",
+      "lugar_coords": "43.4696737,-3.851578700000001",
+      "jornada": "",
+      "estado": "jugado"
+    },
+    {
+      "local": "GIJÓN RUGBY CLUB SENIOR FEMENINO",
+      "local_id": "359",
+      "visitante": "UNIVERSIDAD DE SALAMANCA",
+      "visitante_id": "537",
+      "local_score": 62,
+      "visitante_score": 10,
+      "jugado": true,
+      "fecha": "2026-03-08",
+      "hora": "12:30",
+      "lugar": "CAMPO DE RUGBY LA LABORAL",
+      "lugar_coords": "43.52452520000001,-5.623142899999999",
+      "jornada": "",
+      "estado": "jugado"
+    },
+    {
+      "local": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+      "local_id": "390",
+      "visitante": "CIUDAD DE OVIEDO RUGBY",
+      "visitante_id": "233",
+      "local_score": 90,
+      "visitante_score": 0,
+      "jugado": true,
+      "fecha": "2026-03-07",
+      "hora": "15:30",
+      "lugar": "CAMPOS DE RUGBY DE PEPE ROJO (INSTALACIONES DEPORTIVAS CIUDAD DE VALLADOLID)",
+      "lugar_coords": "41.659683,-4.6731003",
+      "jornada": "",
+      "estado": "jugado"
+    }
+  ],
   "estadisticas": {
-    "anotadores": [],
-    "sanciones": [],
-    "expulsiones_equipo": []
+    "anotadores": [
+      {
+        "isquad_id": "1027499",
+        "nombre": "RAQUEL HERNANDO HERNANDO",
+        "equipo": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+        "id_club": "23",
+        "escudo": "square_323530623173766c706f.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_68746c78783077307176.jpg",
+        "total_pts": 142,
+        "total_count": 66,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 3,
+            "points": 5
+          },
+          {
+            "event_id": "3",
+            "event_name": "Conversion de ensayo",
+            "count": 62,
+            "points": 2
+          },
+          {
+            "event_id": "4",
+            "event_name": "Puntapie de Castigo",
+            "count": 1,
+            "points": 3
+          }
+        ]
+      },
+      {
+        "isquad_id": "1027527",
+        "nombre": "ISABEL JIMENEZ DURAN",
+        "equipo": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+        "id_club": "23",
+        "escudo": "square_323530623173766c706f.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_72337779636672307634.jpg",
+        "total_pts": 110,
+        "total_count": 22,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 22,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1023932",
+        "nombre": "MARTA GARCIA MARTINEZ",
+        "equipo": "GIJÓN RUGBY CLUB SENIOR FEMENINO",
+        "id_club": "71",
+        "escudo": "square_78747576656468373463.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_716c7838647464337237.jpg",
+        "total_pts": 68,
+        "total_count": 20,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 9,
+            "points": 5
+          },
+          {
+            "event_id": "3",
+            "event_name": "Conversion de ensayo",
+            "count": 10,
+            "points": 2
+          },
+          {
+            "event_id": "4",
+            "event_name": "Puntapie de Castigo",
+            "count": 1,
+            "points": 3
+          }
+        ]
+      },
+      {
+        "isquad_id": "1042815",
+        "nombre": "MARINA DEL CASTILLO PINO",
+        "equipo": "C.R. EL SALVADOR EMERGING",
+        "id_club": "21",
+        "escudo": "square_726b7461656e75357439.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_6839306770766d306f73.jpg",
+        "total_pts": 31,
+        "total_count": 14,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 1,
+            "points": 5
+          },
+          {
+            "event_id": "3",
+            "event_name": "Conversion de ensayo",
+            "count": 13,
+            "points": 2
+          }
+        ]
+      },
+      {
+        "isquad_id": "1030683",
+        "nombre": "BLANCA PARAMO GALVAN",
+        "equipo": "CORMORÁN RUGBY CLUB DE SANTANDER",
+        "id_club": "122",
+        "escudo": "square_31626735797977757933.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_3078356a636a69663038.jpg",
+        "total_pts": 37,
+        "total_count": 14,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 3,
+            "points": 5
+          },
+          {
+            "event_id": "3",
+            "event_name": "Conversion de ensayo",
+            "count": 11,
+            "points": 2
+          }
+        ]
+      },
+      {
+        "isquad_id": "1024949",
+        "nombre": "YELYZAVETA  HAVRYLOVA",
+        "equipo": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+        "id_club": "23",
+        "escudo": "square_323530623173766c706f.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_64786c31646868713576.jpg",
+        "total_pts": 57,
+        "total_count": 12,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 11,
+            "points": 5
+          },
+          {
+            "event_id": "3",
+            "event_name": "Conversion de ensayo",
+            "count": 1,
+            "points": 2
+          }
+        ]
+      },
+      {
+        "isquad_id": "1047866",
+        "nombre": "MARIA ISABEL ARZUAGA GONZALEZ",
+        "equipo": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+        "id_club": "23",
+        "escudo": "square_323530623173766c706f.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/foto/square_646d3770377865697372.jpg",
+        "total_pts": 55,
+        "total_count": 11,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 11,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1026559",
+        "nombre": "JIMENA ALVAREZ HEVIA",
+        "equipo": "CIUDAD DE OVIEDO RUGBY",
+        "id_club": "11",
+        "escudo": "square_38396e6b6b6b77673431.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/imagen_692b1eebf1426.jpeg",
+        "total_pts": 30,
+        "total_count": 9,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 3,
+            "points": 5
+          },
+          {
+            "event_id": "3",
+            "event_name": "Conversion de ensayo",
+            "count": 3,
+            "points": 2
+          },
+          {
+            "event_id": "4",
+            "event_name": "Puntapie de Castigo",
+            "count": 3,
+            "points": 3
+          }
+        ]
+      },
+      {
+        "isquad_id": "1043995",
+        "nombre": "ELENA MARTINEZ RUIZ",
+        "equipo": "UNIVERSIDAD DE SALAMANCA",
+        "id_club": "135",
+        "escudo": "square_7834667963796a387338.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/foto/square_796b31626f7073326277.jpg",
+        "total_pts": 42,
+        "total_count": 9,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 8,
+            "points": 5
+          },
+          {
+            "event_id": "3",
+            "event_name": "Conversion de ensayo",
+            "count": 1,
+            "points": 2
+          }
+        ]
+      },
+      {
+        "isquad_id": "1027587",
+        "nombre": "JIMENA TABANERA ARAGON",
+        "equipo": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+        "id_club": "23",
+        "escudo": "square_323530623173766c706f.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_6b3872306d6536763771.jpg",
+        "total_pts": 45,
+        "total_count": 9,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 9,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1031904",
+        "nombre": "MARIA DEL CARMEN MARTOS CUESTA",
+        "equipo": "C.R. EL SALVADOR EMERGING",
+        "id_club": "21",
+        "escudo": "square_726b7461656e75357439.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_3234367836323069726f.jpeg",
+        "total_pts": 35,
+        "total_count": 7,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 7,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1054111",
+        "nombre": "LUCIA MARIANA CENTURION ARENAS",
+        "equipo": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+        "id_club": "23",
+        "escudo": "square_323530623173766c706f.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/foto/square_62366f68336f6c353277.jpg",
+        "total_pts": 35,
+        "total_count": 7,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 7,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1030670",
+        "nombre": "NATALIA SOBRAO JIMENEZ",
+        "equipo": "CORMORÁN RUGBY CLUB DE SANTANDER",
+        "id_club": "122",
+        "escudo": "square_31626735797977757933.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_336b6737766868307735.jpg",
+        "total_pts": 14,
+        "total_count": 7,
+        "detalles": [
+          {
+            "event_id": "3",
+            "event_name": "Conversion de ensayo",
+            "count": 7,
+            "points": 2
+          }
+        ]
+      },
+      {
+        "isquad_id": "1053036",
+        "nombre": "LEIRE ARRANZ DEL RIO",
+        "equipo": "CORMORÁN RUGBY CLUB DE SANTANDER",
+        "id_club": "122",
+        "escudo": "square_31626735797977757933.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/foto/square_656a3435656d3532646a.jpg",
+        "total_pts": 35,
+        "total_count": 7,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 7,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1028670",
+        "nombre": "CARMEN FLORES HERNANSANZ",
+        "equipo": "C.R. EL SALVADOR EMERGING",
+        "id_club": "21",
+        "escudo": "square_726b7461656e75357439.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_6271346b756e62626273.jpg",
+        "total_pts": 30,
+        "total_count": 6,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 6,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1035079",
+        "nombre": "IRATI CLAVERO PERIANES",
+        "equipo": "C.R. EL SALVADOR EMERGING",
+        "id_club": "21",
+        "escudo": "square_726b7461656e75357439.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_6e647871706f72327065.jpg",
+        "total_pts": 18,
+        "total_count": 6,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 2,
+            "points": 5
+          },
+          {
+            "event_id": "3",
+            "event_name": "Conversion de ensayo",
+            "count": 4,
+            "points": 2
+          }
+        ]
+      },
+      {
+        "isquad_id": "1053034",
+        "nombre": "PAULA BERROCAL GARCIA",
+        "equipo": "CORMORÁN RUGBY CLUB DE SANTANDER",
+        "id_club": "122",
+        "escudo": "square_31626735797977757933.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/foto/square_67357139336736713736.jpg",
+        "total_pts": 27,
+        "total_count": 6,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 5,
+            "points": 5
+          },
+          {
+            "event_id": "3",
+            "event_name": "Conversion de ensayo",
+            "count": 1,
+            "points": 2
+          }
+        ]
+      },
+      {
+        "isquad_id": "1026538",
+        "nombre": "GLORIA CAICOYA GARCIA",
+        "equipo": "GIJÓN RUGBY CLUB SENIOR FEMENINO",
+        "id_club": "71",
+        "escudo": "square_78747576656468373463.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_63326e706c3032303678.jpg",
+        "total_pts": 27,
+        "total_count": 6,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 5,
+            "points": 5
+          },
+          {
+            "event_id": "3",
+            "event_name": "Conversion de ensayo",
+            "count": 1,
+            "points": 2
+          }
+        ]
+      },
+      {
+        "isquad_id": "1023221",
+        "nombre": "JULIA RODRIGUEZ VILLEGAS",
+        "equipo": "CORMORÁN RUGBY CLUB DE SANTANDER",
+        "id_club": "122",
+        "escudo": "square_31626735797977757933.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_66636133773935723473.jpeg",
+        "total_pts": 25,
+        "total_count": 5,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 5,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1027546",
+        "nombre": "ANA FERNANDEZ GONZALEZ",
+        "equipo": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+        "id_club": "23",
+        "escudo": "square_323530623173766c706f.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_62787739306a6b693461.jpg",
+        "total_pts": 25,
+        "total_count": 5,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 5,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1027278",
+        "nombre": "ISABEL SIERRA MARTIN",
+        "equipo": "C.R. EL SALVADOR EMERGING",
+        "id_club": "21",
+        "escudo": "square_726b7461656e75357439.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_62366176656e68797570.jpg",
+        "total_pts": 25,
+        "total_count": 5,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 5,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1053013",
+        "nombre": "Mª TERESA ALDAZABAL PANDO",
+        "equipo": "CORMORÁN RUGBY CLUB DE SANTANDER",
+        "id_club": "122",
+        "escudo": "square_31626735797977757933.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/foto/square_70653461687370323032.jpg",
+        "total_pts": 25,
+        "total_count": 5,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 5,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1023811",
+        "nombre": "SARAY AVILES ALCOBA",
+        "equipo": "C.R. EL SALVADOR EMERGING",
+        "id_club": "21",
+        "escudo": "square_726b7461656e75357439.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_666d39306d346a62386e.jpg",
+        "total_pts": 25,
+        "total_count": 5,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 5,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1024217",
+        "nombre": "ANGELA LORENZO HERNANSANZ",
+        "equipo": "C.R. EL SALVADOR EMERGING",
+        "id_club": "21",
+        "escudo": "square_726b7461656e75357439.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/foto/square_357676746e7830386c37.jpg",
+        "total_pts": 17,
+        "total_count": 4,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 3,
+            "points": 5
+          },
+          {
+            "event_id": "3",
+            "event_name": "Conversion de ensayo",
+            "count": 1,
+            "points": 2
+          }
+        ]
+      },
+      {
+        "isquad_id": "1027384",
+        "nombre": "GALES DAIAN AVENDAÑO CARDONA",
+        "equipo": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+        "id_club": "23",
+        "escudo": "square_323530623173766c706f.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_68327131326678777672.jpg",
+        "total_pts": 20,
+        "total_count": 4,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 4,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1024215",
+        "nombre": "JULIA NAVARRO QUINTANAL",
+        "equipo": "CORMORÁN RUGBY CLUB DE SANTANDER",
+        "id_club": "122",
+        "escudo": "square_31626735797977757933.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_6e306c7539616832706f.jpg",
+        "total_pts": 20,
+        "total_count": 4,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 4,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1024513",
+        "nombre": "EDNA GUERRA ARRIBAS",
+        "equipo": "C.R. EL SALVADOR EMERGING",
+        "id_club": "21",
+        "escudo": "square_726b7461656e75357439.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_73383872397768643031.jpg",
+        "total_pts": 20,
+        "total_count": 4,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 4,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1023673",
+        "nombre": "NURIA MORENO FERRERAS",
+        "equipo": "CIUDAD DE OVIEDO RUGBY",
+        "id_club": "11",
+        "escudo": "square_38396e6b6b6b77673431.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_76336565666b7773696c.jpg",
+        "total_pts": 20,
+        "total_count": 4,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 4,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1024090",
+        "nombre": "GEMA Mª PEREZ RUIZ",
+        "equipo": "C.R. EL SALVADOR EMERGING",
+        "id_club": "21",
+        "escudo": "square_726b7461656e75357439.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_74636a306d6d7378756e.jpg",
+        "total_pts": 20,
+        "total_count": 4,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 4,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1032781",
+        "nombre": "PATRICIA ALONSO CALAHORRA",
+        "equipo": "GIJÓN RUGBY CLUB SENIOR FEMENINO",
+        "id_club": "71",
+        "escudo": "square_78747576656468373463.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_676634686833326c7874.jpg",
+        "total_pts": 20,
+        "total_count": 4,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 4,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1027488",
+        "nombre": "LUCIA PERALO CASCAJO",
+        "equipo": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+        "id_club": "23",
+        "escudo": "square_323530623173766c706f.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_3138376a366278666d6f.jpg",
+        "total_pts": 15,
+        "total_count": 3,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 3,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1035322",
+        "nombre": "DANIELA GARCIA TORRES",
+        "equipo": "C.R. EL SALVADOR EMERGING",
+        "id_club": "21",
+        "escudo": "square_726b7461656e75357439.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_756e6638666230686771.jpg",
+        "total_pts": 10,
+        "total_count": 3,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 1,
+            "points": 5
+          },
+          {
+            "event_id": "3",
+            "event_name": "Conversion de ensayo",
+            "count": 1,
+            "points": 2
+          },
+          {
+            "event_id": "4",
+            "event_name": "Puntapie de Castigo",
+            "count": 1,
+            "points": 3
+          }
+        ]
+      },
+      {
+        "isquad_id": "1030534",
+        "nombre": "CLARA ALCAÑIZ GONZALEZ",
+        "equipo": "CIUDAD DE OVIEDO RUGBY",
+        "id_club": "11",
+        "escudo": "square_38396e6b6b6b77673431.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_323579306c34736e7361.jpg",
+        "total_pts": 15,
+        "total_count": 3,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 3,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1025053",
+        "nombre": "MARIA GONZALEZ ESTRADA",
+        "equipo": "GIJÓN RUGBY CLUB SENIOR FEMENINO",
+        "id_club": "71",
+        "escudo": "square_78747576656468373463.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_35703034756276727370.jpeg",
+        "total_pts": 15,
+        "total_count": 3,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 3,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1028224",
+        "nombre": "MARTA CEREZO CIUDAD",
+        "equipo": "UNIVERSIDAD DE SALAMANCA",
+        "id_club": "135",
+        "escudo": "square_7834667963796a387338.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/foto/square_74303263647376746d34.jpg",
+        "total_pts": 6,
+        "total_count": 3,
+        "detalles": [
+          {
+            "event_id": "3",
+            "event_name": "Conversion de ensayo",
+            "count": 3,
+            "points": 2
+          }
+        ]
+      },
+      {
+        "isquad_id": "1053970",
+        "nombre": "MARTA HARO LOPEZ",
+        "equipo": "GIJÓN RUGBY CLUB SENIOR FEMENINO",
+        "id_club": "71",
+        "escudo": "square_78747576656468373463.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/foto/square_706b3866656976307571.jpg",
+        "total_pts": 15,
+        "total_count": 3,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 3,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1029215",
+        "nombre": "CELIA DAVILA MARTINEZ",
+        "equipo": "GIJÓN RUGBY CLUB SENIOR FEMENINO",
+        "id_club": "71",
+        "escudo": "square_78747576656468373463.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_6d363274756270726e34.jpg",
+        "total_pts": 10,
+        "total_count": 2,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 2,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1023789",
+        "nombre": "IRENE  ALONSO PINILLA",
+        "equipo": "C.R. EL SALVADOR EMERGING",
+        "id_club": "21",
+        "escudo": "square_726b7461656e75357439.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_6e746369796433717064.jpg",
+        "total_pts": 10,
+        "total_count": 2,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 2,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1027506",
+        "nombre": "LUCIA REDONDO VELASCO",
+        "equipo": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+        "id_club": "23",
+        "escudo": "square_323530623173766c706f.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_397374733564746a7579.jpg",
+        "total_pts": 10,
+        "total_count": 2,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 2,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1043034",
+        "nombre": "CECILIA PALACIOS MORAGO",
+        "equipo": "C.R. EL SALVADOR EMERGING",
+        "id_club": "21",
+        "escudo": "square_726b7461656e75357439.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_73636c637337676b6761.jpg",
+        "total_pts": 10,
+        "total_count": 2,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 2,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1028731",
+        "nombre": "SELENE MORAN FERNANDEZ",
+        "equipo": "C.R. EL SALVADOR EMERGING",
+        "id_club": "21",
+        "escudo": "square_726b7461656e75357439.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_77653963723863653379.jpg",
+        "total_pts": 10,
+        "total_count": 2,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 2,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1027129",
+        "nombre": "ZAIDA GIMENEZ RAMIREZ",
+        "equipo": "C.R. EL SALVADOR EMERGING",
+        "id_club": "21",
+        "escudo": "square_726b7461656e75357439.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_396a6d6f76666f667574.jpg",
+        "total_pts": 10,
+        "total_count": 2,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 2,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1023820",
+        "nombre": "JULIA DEL POZO MARTINEZ",
+        "equipo": "UNIVERSIDAD DE SALAMANCA",
+        "id_club": "135",
+        "escudo": "square_7834667963796a387338.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/imagen_68d6a3d922b61.jpg",
+        "total_pts": 10,
+        "total_count": 2,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 2,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1023557",
+        "nombre": "CARMEN CUEVAS YANES",
+        "equipo": "CIUDAD DE OVIEDO RUGBY",
+        "id_club": "11",
+        "escudo": "square_38396e6b6b6b77673431.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_36676c30387465636463.jpg",
+        "total_pts": 10,
+        "total_count": 2,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 2,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1028332",
+        "nombre": "ELISA SANZO PEÑAS",
+        "equipo": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+        "id_club": "23",
+        "escudo": "square_323530623173766c706f.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_35616a6b376976703632.jpg",
+        "total_pts": 10,
+        "total_count": 2,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 2,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1024164",
+        "nombre": "CARMEN MIRANDA MIRALLES",
+        "equipo": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+        "id_club": "23",
+        "escudo": "square_323530623173766c706f.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_6f6a7939757835763967.jpg",
+        "total_pts": 10,
+        "total_count": 2,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 2,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1027344",
+        "nombre": "ALISHA HIGUERA TORRES",
+        "equipo": "CORMORÁN RUGBY CLUB DE SANTANDER",
+        "id_club": "122",
+        "escudo": "square_31626735797977757933.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/foto/square_6b363873357676373062.jpg",
+        "total_pts": 10,
+        "total_count": 2,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 2,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1027090",
+        "nombre": "TERESA DIEZ MARTIN",
+        "equipo": "C.R. EL SALVADOR EMERGING",
+        "id_club": "21",
+        "escudo": "square_726b7461656e75357439.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_747035706c6a78346879.jpg",
+        "total_pts": 10,
+        "total_count": 2,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 2,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1053591",
+        "nombre": "LUCIA MARTIN BRAVO",
+        "equipo": "UNIVERSIDAD DE SALAMANCA",
+        "id_club": "135",
+        "escudo": "square_7834667963796a387338.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/foto/square_366132706a3637797669.jpg",
+        "total_pts": 10,
+        "total_count": 2,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 2,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1023876",
+        "nombre": "NATALIA PEREZ HERRERO",
+        "equipo": "C.R. EL SALVADOR EMERGING",
+        "id_club": "21",
+        "escudo": "square_726b7461656e75357439.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_6539706e797772643466.jpg",
+        "total_pts": 10,
+        "total_count": 2,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 2,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1054670",
+        "nombre": "SARA HERRERO ANTA",
+        "equipo": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+        "id_club": "23",
+        "escudo": "square_323530623173766c706f.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/foto/square_686f38306c3368306d34.jpg",
+        "total_pts": 10,
+        "total_count": 2,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 2,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1023786",
+        "nombre": "CARMEN  PEREZ RUIZ",
+        "equipo": "C.R. EL SALVADOR EMERGING",
+        "id_club": "21",
+        "escudo": "square_726b7461656e75357439.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_36303276633371636539.jpg",
+        "total_pts": 10,
+        "total_count": 2,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 2,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1023059",
+        "nombre": "PAULA ECHEVARRIA GONZALEZ",
+        "equipo": "CORMORÁN RUGBY CLUB DE SANTANDER",
+        "id_club": "122",
+        "escudo": "square_31626735797977757933.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_66767971656f3237656a.jpg",
+        "total_pts": 10,
+        "total_count": 2,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 2,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1030369",
+        "nombre": "YASMIN EL MAATAOUI",
+        "equipo": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+        "id_club": "23",
+        "escudo": "square_323530623173766c706f.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_6467373172316b306f78.jpg",
+        "total_pts": 10,
+        "total_count": 2,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 2,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1056375",
+        "nombre": "SILVIA ARNAIZ RUIZ",
+        "equipo": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+        "id_club": "23",
+        "escudo": "square_323530623173766c706f.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/foto/square_3335356931766b6d6137.jpg",
+        "total_pts": 5,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 1,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1053263",
+        "nombre": "TANIA REDONDO LOPEZ-MENCHERO",
+        "equipo": "CORMORÁN RUGBY CLUB DE SANTANDER",
+        "id_club": "122",
+        "escudo": "square_31626735797977757933.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/foto/square_6e353531753068707378.jpg",
+        "total_pts": 5,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 1,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1025052",
+        "nombre": "SARA  GONZALEZ ESTRADA",
+        "equipo": "GIJÓN RUGBY CLUB SENIOR FEMENINO",
+        "id_club": "71",
+        "escudo": "square_78747576656468373463.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_776c777037723134776f.jpeg",
+        "total_pts": 5,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 1,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1030437",
+        "nombre": "ARANCHA BEDIA CAMPOMANES",
+        "equipo": "CIUDAD DE OVIEDO RUGBY",
+        "id_club": "11",
+        "escudo": "square_38396e6b6b6b77673431.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_6e796f366a6976697376.jpg",
+        "total_pts": 5,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 1,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1027436",
+        "nombre": "CLAUDIA GONZALEZ FLORES",
+        "equipo": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+        "id_club": "23",
+        "escudo": "square_323530623173766c706f.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_336f683378676f693435.jpg",
+        "total_pts": 5,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 1,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1025845",
+        "nombre": "BARBARA  BERNARDOS MARTIN",
+        "equipo": "C.R. EL SALVADOR EMERGING",
+        "id_club": "21",
+        "escudo": "square_726b7461656e75357439.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_6336706f726370376e65.jpg",
+        "total_pts": 5,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 1,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1023238",
+        "nombre": "CRISTINA DEL CAMPO ALONSO",
+        "equipo": "CIUDAD DE OVIEDO RUGBY",
+        "id_club": "11",
+        "escudo": "square_38396e6b6b6b77673431.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_67627633303579726179.jpg",
+        "total_pts": 5,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 1,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1031353",
+        "nombre": "VERA ALONSO DEL CASTILLO",
+        "equipo": "GIJÓN RUGBY CLUB SENIOR FEMENINO",
+        "id_club": "71",
+        "escudo": "square_78747576656468373463.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/foto/square_646b73636c6e36646166.jpg",
+        "total_pts": 5,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 1,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1027025",
+        "nombre": "JIMENA  SANZ SANCHEZ",
+        "equipo": "C.R. EL SALVADOR EMERGING",
+        "id_club": "21",
+        "escudo": "square_726b7461656e75357439.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_38776b756364736c7272.jpg",
+        "total_pts": 5,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 1,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1027549",
+        "nombre": "MILENE DANIELA SALAZAR DIAZ",
+        "equipo": "CIUDAD DE OVIEDO RUGBY",
+        "id_club": "11",
+        "escudo": "square_38396e6b6b6b77673431.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_346339716f676a366a31.jpg",
+        "total_pts": 5,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 1,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1027646",
+        "nombre": "CARLA PEREZ DE ISLA",
+        "equipo": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+        "id_club": "23",
+        "escudo": "square_323530623173766c706f.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_706d6936313473686d6e.jpg",
+        "total_pts": 5,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 1,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1027685",
+        "nombre": "LUCIA  FANO LLORENTE",
+        "equipo": "CIUDAD DE OVIEDO RUGBY",
+        "id_club": "11",
+        "escudo": "square_38396e6b6b6b77673431.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_746b64646a7239386539.jpg",
+        "total_pts": 5,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 1,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1026712",
+        "nombre": "SOFIA DEL RIVERO CASANUEVA",
+        "equipo": "GIJÓN RUGBY CLUB SENIOR FEMENINO",
+        "id_club": "71",
+        "escudo": "square_78747576656468373463.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_683169736f3533796866.jpg",
+        "total_pts": 5,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 1,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1027518",
+        "nombre": "MACARENA PASTOR HERNANSANZ",
+        "equipo": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+        "id_club": "23",
+        "escudo": "square_323530623173766c706f.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_75746675767578317434.jpg",
+        "total_pts": 5,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 1,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1030634",
+        "nombre": "CLARA MONEDERO GOMEZ",
+        "equipo": "CORMORÁN RUGBY CLUB DE SANTANDER",
+        "id_club": "122",
+        "escudo": "square_31626735797977757933.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_64706963396739343470.jpg",
+        "total_pts": 5,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 1,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1025365",
+        "nombre": "OLAYA  LOPEZ GARCIA",
+        "equipo": "GIJÓN RUGBY CLUB SENIOR FEMENINO",
+        "id_club": "71",
+        "escudo": "square_78747576656468373463.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_6c727874687466707432.jpg",
+        "total_pts": 2,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "3",
+            "event_name": "Conversion de ensayo",
+            "count": 1,
+            "points": 2
+          }
+        ]
+      },
+      {
+        "isquad_id": "1027512",
+        "nombre": "NEREA  SANTOS SAN JOSE",
+        "equipo": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+        "id_club": "23",
+        "escudo": "square_323530623173766c706f.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_75376b6b67306833726b.jpg",
+        "total_pts": 5,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 1,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1046787",
+        "nombre": "MARINA GOMEZ",
+        "equipo": "C.R. EL SALVADOR EMERGING",
+        "id_club": "21",
+        "escudo": "square_726b7461656e75357439.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/foto/square_666f6e38706667627869.jpg",
+        "total_pts": 5,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 1,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1027357",
+        "nombre": "AITANA ORTEGA FERNANDEZ",
+        "equipo": "GIJÓN RUGBY CLUB SENIOR FEMENINO",
+        "id_club": "71",
+        "escudo": "square_78747576656468373463.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_356a3471376475616536.jpg",
+        "total_pts": 5,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 1,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1044844",
+        "nombre": "MARIA MORENCIA LOPEZ",
+        "equipo": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+        "id_club": "23",
+        "escudo": "square_323530623173766c706f.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/foto/square_797168756536626e7767.jpg",
+        "total_pts": 5,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 1,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1026775",
+        "nombre": "EMILIA XIMENA TREDINICK RODRIGUEZ",
+        "equipo": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+        "id_club": "23",
+        "escudo": "square_323530623173766c706f.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/foto/square_3978656562746d746137.jpg",
+        "total_pts": 5,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 1,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1055491",
+        "nombre": "PAULA ALONSO CALAHORRA",
+        "equipo": "GIJÓN RUGBY CLUB SENIOR FEMENINO",
+        "id_club": "71",
+        "escudo": "square_78747576656468373463.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/foto/square_7662383539676d696674.jpg",
+        "total_pts": 5,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 1,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1023058",
+        "nombre": "SARA NARANJO NIELFA",
+        "equipo": "CORMORÁN RUGBY CLUB DE SANTANDER",
+        "id_club": "122",
+        "escudo": "square_31626735797977757933.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_7630756374706f796375.jpg",
+        "total_pts": 5,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 1,
+            "points": 5
+          }
+        ]
+      },
+      {
+        "isquad_id": "1023654",
+        "nombre": "PATRICIA ALVAREZ GARCIA",
+        "equipo": "CIUDAD DE OVIEDO RUGBY",
+        "id_club": "11",
+        "escudo": "square_38396e6b6b6b77673431.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_7239796f756a66797066.jpg",
+        "total_pts": 5,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "1",
+            "event_name": "Ensayo",
+            "count": 1,
+            "points": 5
+          }
+        ]
+      }
+    ],
+    "sanciones": [
+      {
+        "isquad_id": "1053036",
+        "nombre": "LEIRE ARRANZ DEL RIO",
+        "equipo": "CORMORÁN RUGBY CLUB DE SANTANDER",
+        "id_club": "122",
+        "escudo": "square_31626735797977757933.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/foto/square_656a3435656d3532646a.jpg",
+        "total_pts": 0,
+        "total_count": 2,
+        "detalles": [
+          {
+            "event_id": "6",
+            "event_name": "Expulsion Temporal por Falta Reiterada",
+            "count": 1,
+            "points": 0
+          },
+          {
+            "event_id": "9",
+            "event_name": "Expulsion Temporal por Juego Sucio",
+            "count": 1,
+            "points": 0
+          }
+        ]
+      },
+      {
+        "isquad_id": "1053034",
+        "nombre": "PAULA BERROCAL GARCIA",
+        "equipo": "CORMORÁN RUGBY CLUB DE SANTANDER",
+        "id_club": "122",
+        "escudo": "square_31626735797977757933.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/foto/square_67357139336736713736.jpg",
+        "total_pts": 0,
+        "total_count": 2,
+        "detalles": [
+          {
+            "event_id": "9",
+            "event_name": "Expulsion Temporal por Juego Sucio",
+            "count": 1,
+            "points": 0
+          },
+          {
+            "event_id": "10",
+            "event_name": "Expulsion Temporal por Otros Motivos",
+            "count": 1,
+            "points": 0
+          }
+        ]
+      },
+      {
+        "isquad_id": "1024215",
+        "nombre": "JULIA NAVARRO QUINTANAL",
+        "equipo": "CORMORÁN RUGBY CLUB DE SANTANDER",
+        "id_club": "122",
+        "escudo": "square_31626735797977757933.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_6e306c7539616832706f.jpg",
+        "total_pts": 0,
+        "total_count": 2,
+        "detalles": [
+          {
+            "event_id": "9",
+            "event_name": "Expulsion Temporal por Juego Sucio",
+            "count": 1,
+            "points": 0
+          },
+          {
+            "event_id": "10",
+            "event_name": "Expulsion Temporal por Otros Motivos",
+            "count": 1,
+            "points": 0
+          }
+        ]
+      },
+      {
+        "isquad_id": "1029215",
+        "nombre": "CELIA DAVILA MARTINEZ",
+        "equipo": "GIJÓN RUGBY CLUB SENIOR FEMENINO",
+        "id_club": "71",
+        "escudo": "square_78747576656468373463.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_6d363274756270726e34.jpg",
+        "total_pts": 0,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "7",
+            "event_name": "Expulsion Temporal por Falta Reiterada de Equipo",
+            "count": 1,
+            "points": 0
+          }
+        ]
+      },
+      {
+        "isquad_id": "1042815",
+        "nombre": "MARINA DEL CASTILLO PINO",
+        "equipo": "C.R. EL SALVADOR EMERGING",
+        "id_club": "21",
+        "escudo": "square_726b7461656e75357439.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_6839306770766d306f73.jpg",
+        "total_pts": 0,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "9",
+            "event_name": "Expulsion Temporal por Juego Sucio",
+            "count": 1,
+            "points": 0
+          }
+        ]
+      },
+      {
+        "isquad_id": "1030534",
+        "nombre": "CLARA ALCAÑIZ GONZALEZ",
+        "equipo": "CIUDAD DE OVIEDO RUGBY",
+        "id_club": "11",
+        "escudo": "square_38396e6b6b6b77673431.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_323579306c34736e7361.jpg",
+        "total_pts": 0,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "9",
+            "event_name": "Expulsion Temporal por Juego Sucio",
+            "count": 1,
+            "points": 0
+          }
+        ]
+      },
+      {
+        "isquad_id": "1027384",
+        "nombre": "GALES DAIAN AVENDAÑO CARDONA",
+        "equipo": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+        "id_club": "23",
+        "escudo": "square_323530623173766c706f.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_68327131326678777672.jpg",
+        "total_pts": 0,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "7",
+            "event_name": "Expulsion Temporal por Falta Reiterada de Equipo",
+            "count": 1,
+            "points": 0
+          }
+        ]
+      },
+      {
+        "isquad_id": "1031353",
+        "nombre": "VERA ALONSO DEL CASTILLO",
+        "equipo": "GIJÓN RUGBY CLUB SENIOR FEMENINO",
+        "id_club": "71",
+        "escudo": "square_78747576656468373463.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/foto/square_646b73636c6e36646166.jpg",
+        "total_pts": 0,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "7",
+            "event_name": "Expulsion Temporal por Falta Reiterada de Equipo",
+            "count": 1,
+            "points": 0
+          }
+        ]
+      },
+      {
+        "isquad_id": "1027220",
+        "nombre": "AYLA SAINZ SERRANO",
+        "equipo": "UNIVERSIDAD DE SALAMANCA",
+        "id_club": "135",
+        "escudo": "square_7834667963796a387338.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/imagen_6971457dbef93.jpeg",
+        "total_pts": 0,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "9",
+            "event_name": "Expulsion Temporal por Juego Sucio",
+            "count": 1,
+            "points": 0
+          }
+        ]
+      },
+      {
+        "isquad_id": "1030412",
+        "nombre": "ELISA MARTINEZ LAFUENTE",
+        "equipo": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+        "id_club": "23",
+        "escudo": "square_323530623173766c706f.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_62356974777161627877.jpg",
+        "total_pts": 0,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "9",
+            "event_name": "Expulsion Temporal por Juego Sucio",
+            "count": 1,
+            "points": 0
+          }
+        ]
+      },
+      {
+        "isquad_id": "1023671",
+        "nombre": "IRMA FERNANDEZ SUAREZ",
+        "equipo": "CIUDAD DE OVIEDO RUGBY",
+        "id_club": "11",
+        "escudo": "square_38396e6b6b6b77673431.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_38343064623135737177.jpg",
+        "total_pts": 0,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "6",
+            "event_name": "Expulsion Temporal por Falta Reiterada",
+            "count": 1,
+            "points": 0
+          }
+        ]
+      },
+      {
+        "isquad_id": "1046787",
+        "nombre": "MARINA GOMEZ",
+        "equipo": "C.R. EL SALVADOR EMERGING",
+        "id_club": "21",
+        "escudo": "square_726b7461656e75357439.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/foto/square_666f6e38706667627869.jpg",
+        "total_pts": 0,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "9",
+            "event_name": "Expulsion Temporal por Juego Sucio",
+            "count": 1,
+            "points": 0
+          }
+        ]
+      },
+      {
+        "isquad_id": "1023660",
+        "nombre": "MELANIA DAYANA SALAZAR DIAZ",
+        "equipo": "CIUDAD DE OVIEDO RUGBY",
+        "id_club": "11",
+        "escudo": "square_38396e6b6b6b77673431.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_7336766e64706c337064.jpg",
+        "total_pts": 0,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "7",
+            "event_name": "Expulsion Temporal por Falta Reiterada de Equipo",
+            "count": 1,
+            "points": 0
+          }
+        ]
+      },
+      {
+        "isquad_id": "1023701",
+        "nombre": "TAMARA ALVAREZ RODIGUEZ",
+        "equipo": "CIUDAD DE OVIEDO RUGBY",
+        "id_club": "11",
+        "escudo": "square_38396e6b6b6b77673431.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/imagen_69a00cbe9a60b.jpeg",
+        "total_pts": 0,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "9",
+            "event_name": "Expulsion Temporal por Juego Sucio",
+            "count": 1,
+            "points": 0
+          }
+        ]
+      },
+      {
+        "isquad_id": "1053136",
+        "nombre": "CLAUDIA CAMILA CRUZ RAPALO",
+        "equipo": "C.R. EL SALVADOR EMERGING",
+        "id_club": "21",
+        "escudo": "square_726b7461656e75357439.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/foto/square_37796164707731756334.jpg",
+        "total_pts": 0,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "9",
+            "event_name": "Expulsion Temporal por Juego Sucio",
+            "count": 1,
+            "points": 0
+          }
+        ]
+      },
+      {
+        "isquad_id": "1053414",
+        "nombre": "LAURA MENENDEZ DOS SANTOS",
+        "equipo": "GIJÓN RUGBY CLUB SENIOR FEMENINO",
+        "id_club": "71",
+        "escudo": "square_78747576656468373463.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/foto/square_796e7834653777746330.jpg",
+        "total_pts": 0,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "7",
+            "event_name": "Expulsion Temporal por Falta Reiterada de Equipo",
+            "count": 1,
+            "points": 0
+          }
+        ]
+      },
+      {
+        "isquad_id": "1026450",
+        "nombre": "MUNA HAKIM EL KAMLI",
+        "equipo": "GIJÓN RUGBY CLUB SENIOR FEMENINO",
+        "id_club": "71",
+        "escudo": "square_78747576656468373463.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_71307174396334313175.jpg",
+        "total_pts": 0,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "10",
+            "event_name": "Expulsion Temporal por Otros Motivos",
+            "count": 1,
+            "points": 0
+          }
+        ]
+      },
+      {
+        "isquad_id": "1026453",
+        "nombre": "ALBA DOMINGO BUSTIELLO",
+        "equipo": "CIUDAD DE OVIEDO RUGBY",
+        "id_club": "11",
+        "escudo": "square_38396e6b6b6b77673431.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_32377432643131696c71.jpg",
+        "total_pts": 0,
+        "total_count": 1,
+        "detalles": [
+          {
+            "event_id": "9",
+            "event_name": "Expulsion Temporal por Juego Sucio",
+            "count": 1,
+            "points": 0
+          }
+        ]
+      }
+    ],
+    "expulsiones_equipo": [
+      {
+        "equipo": "CIUDAD DE OVIEDO RUGBY",
+        "equipo_id": "233",
+        "temporales": 5,
+        "definitivas": 0
+      },
+      {
+        "equipo": "GIJÓN RUGBY CLUB SENIOR FEMENINO",
+        "equipo_id": "359",
+        "temporales": 4,
+        "definitivas": 0
+      },
+      {
+        "equipo": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+        "equipo_id": "390",
+        "temporales": 2,
+        "definitivas": 0
+      },
+      {
+        "equipo": "UNIVERSIDAD DE SALAMANCA",
+        "equipo_id": "537",
+        "temporales": 1,
+        "definitivas": 0
+      },
+      {
+        "equipo": "C.R. EL SALVADOR EMERGING",
+        "equipo_id": "619",
+        "temporales": 3,
+        "definitivas": 0
+      },
+      {
+        "equipo": "CORMORÁN RUGBY CLUB DE SANTANDER",
+        "equipo_id": "1743",
+        "temporales": 6,
+        "definitivas": 0
+      }
+    ]
   }
 }
