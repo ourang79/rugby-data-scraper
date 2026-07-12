@@ -1,7 +1,7 @@
 {
   "torneo_id": "521",
   "nombre": "Liga Senior Femenino",
-  "timestamp": "2026-07-05T20:56:36Z",
+  "timestamp": "2026-07-12T20:42:23Z",
   "clasificacion": [
     {
       "posicion": 1,
@@ -1035,12 +1035,12 @@
         ]
       },
       {
-        "isquad_id": "1027278",
-        "nombre": "ISABEL SIERRA MARTIN",
-        "equipo": "C.R. EL SALVADOR EMERGING",
-        "id_club": "21",
-        "escudo": "square_726b7461656e75357439.jpg",
-        "foto": "//rugby.isquad.es/images/afiliacion/square_62366176656e68797570.jpg",
+        "isquad_id": "1027546",
+        "nombre": "ANA FERNANDEZ GONZALEZ",
+        "equipo": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+        "id_club": "23",
+        "escudo": "square_323530623173766c706f.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_62787739306a6b693461.jpg",
         "total_pts": 25,
         "total_count": 5,
         "detalles": [
@@ -1053,12 +1053,12 @@
         ]
       },
       {
-        "isquad_id": "1027546",
-        "nombre": "ANA FERNANDEZ GONZALEZ",
-        "equipo": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
-        "id_club": "23",
-        "escudo": "square_323530623173766c706f.jpg",
-        "foto": "//rugby.isquad.es/images/afiliacion/square_62787739306a6b693461.jpg",
+        "isquad_id": "1027278",
+        "nombre": "ISABEL SIERRA MARTIN",
+        "equipo": "C.R. EL SALVADOR EMERGING",
+        "id_club": "21",
+        "escudo": "square_726b7461656e75357439.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_62366176656e68797570.jpg",
         "total_pts": 25,
         "total_count": 5,
         "detalles": [
@@ -1773,12 +1773,12 @@
         ]
       },
       {
-        "isquad_id": "1023238",
-        "nombre": "CRISTINA DEL CAMPO ALONSO",
-        "equipo": "CIUDAD DE OVIEDO RUGBY",
-        "id_club": "11",
-        "escudo": "square_38396e6b6b6b77673431.jpg",
-        "foto": "//rugby.isquad.es/images/afiliacion/square_67627633303579726179.jpg",
+        "isquad_id": "1025845",
+        "nombre": "BARBARA  BERNARDOS MARTIN",
+        "equipo": "C.R. EL SALVADOR EMERGING",
+        "id_club": "21",
+        "escudo": "square_726b7461656e75357439.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_6336706f726370376e65.jpg",
         "total_pts": 5,
         "total_count": 1,
         "detalles": [
@@ -1791,12 +1791,12 @@
         ]
       },
       {
-        "isquad_id": "1025845",
-        "nombre": "BARBARA  BERNARDOS MARTIN",
-        "equipo": "C.R. EL SALVADOR EMERGING",
-        "id_club": "21",
-        "escudo": "square_726b7461656e75357439.jpg",
-        "foto": "//rugby.isquad.es/images/afiliacion/square_6336706f726370376e65.jpg",
+        "isquad_id": "1023238",
+        "nombre": "CRISTINA DEL CAMPO ALONSO",
+        "equipo": "CIUDAD DE OVIEDO RUGBY",
+        "id_club": "11",
+        "escudo": "square_38396e6b6b6b77673431.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_67627633303579726179.jpg",
         "total_pts": 5,
         "total_count": 1,
         "detalles": [
