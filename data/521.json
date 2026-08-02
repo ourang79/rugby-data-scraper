@@ -1,7 +1,7 @@
 {
   "torneo_id": "521",
   "nombre": "Liga Senior Femenino",
-  "timestamp": "2026-07-26T20:55:47Z",
+  "timestamp": "2026-08-02T20:52:15Z",
   "clasificacion": [
     {
       "posicion": 1,
@@ -1881,12 +1881,12 @@
         ]
       },
       {
-        "isquad_id": "1026712",
-        "nombre": "SOFIA DEL RIVERO CASANUEVA",
-        "equipo": "GIJÓN RUGBY CLUB SENIOR FEMENINO",
-        "id_club": "71",
-        "escudo": "square_78747576656468373463.jpg",
-        "foto": "//rugby.isquad.es/images/afiliacion/square_683169736f3533796866.jpg",
+        "isquad_id": "1027685",
+        "nombre": "LUCIA  FANO LLORENTE",
+        "equipo": "CIUDAD DE OVIEDO RUGBY",
+        "id_club": "11",
+        "escudo": "square_38396e6b6b6b77673431.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_746b64646a7239386539.jpg",
         "total_pts": 5,
         "total_count": 1,
         "detalles": [
@@ -1899,12 +1899,12 @@
         ]
       },
       {
-        "isquad_id": "1027685",
-        "nombre": "LUCIA  FANO LLORENTE",
-        "equipo": "CIUDAD DE OVIEDO RUGBY",
-        "id_club": "11",
-        "escudo": "square_38396e6b6b6b77673431.jpg",
-        "foto": "//rugby.isquad.es/images/afiliacion/square_746b64646a7239386539.jpg",
+        "isquad_id": "1026712",
+        "nombre": "SOFIA DEL RIVERO CASANUEVA",
+        "equipo": "GIJÓN RUGBY CLUB SENIOR FEMENINO",
+        "id_club": "71",
+        "escudo": "square_78747576656468373463.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_683169736f3533796866.jpg",
         "total_pts": 5,
         "total_count": 1,
         "detalles": [
@@ -2459,43 +2459,6 @@
         ]
       }
     ],
-    "expulsiones_equipo": [
-      {
-        "equipo": "CIUDAD DE OVIEDO RUGBY",
-        "equipo_id": "233",
-        "temporales": 5,
-        "definitivas": 0
-      },
-      {
-        "equipo": "GIJÓN RUGBY CLUB SENIOR FEMENINO",
-        "equipo_id": "359",
-        "temporales": 4,
-        "definitivas": 0
-      },
-      {
-        "equipo": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
-        "equipo_id": "390",
-        "temporales": 2,
-        "definitivas": 0
-      },
-      {
-        "equipo": "UNIVERSIDAD DE SALAMANCA",
-        "equipo_id": "537",
-        "temporales": 1,
-        "definitivas": 0
-      },
-      {
-        "equipo": "C.R. EL SALVADOR EMERGING",
-        "equipo_id": "619",
-        "temporales": 3,
-        "definitivas": 0
-      },
-      {
-        "equipo": "CORMORÁN RUGBY CLUB DE SANTANDER",
-        "equipo_id": "1743",
-        "temporales": 6,
-        "definitivas": 0
-      }
-    ]
+    "expulsiones_equipo": []
   }
 }
