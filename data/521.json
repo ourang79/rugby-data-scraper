@@ -1,7 +1,7 @@
 {
   "torneo_id": "521",
   "nombre": "Liga Senior Femenino",
-  "timestamp": "2026-08-16T20:17:53Z",
+  "timestamp": "2026-08-23T20:18:35Z",
   "clasificacion": [
     {
       "posicion": 1,
@@ -2369,12 +2369,12 @@
         ]
       },
       {
-        "isquad_id": "1053136",
-        "nombre": "CLAUDIA CAMILA CRUZ RAPALO",
-        "equipo": "C.R. EL SALVADOR EMERGING",
-        "id_club": "21",
-        "escudo": "square_726b7461656e75357439.jpg",
-        "foto": "//rugby.isquad.es/images/afiliacion/foto/square_37796164707731756334.jpg",
+        "isquad_id": "1023701",
+        "nombre": "TAMARA ALVAREZ RODIGUEZ",
+        "equipo": "CIUDAD DE OVIEDO RUGBY",
+        "id_club": "11",
+        "escudo": "square_38396e6b6b6b77673431.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/imagen_69a00cbe9a60b.jpeg",
         "total_pts": 0,
         "total_count": 1,
         "detalles": [
@@ -2387,12 +2387,12 @@
         ]
       },
       {
-        "isquad_id": "1023701",
-        "nombre": "TAMARA ALVAREZ RODIGUEZ",
-        "equipo": "CIUDAD DE OVIEDO RUGBY",
-        "id_club": "11",
-        "escudo": "square_38396e6b6b6b77673431.jpg",
-        "foto": "//rugby.isquad.es/images/afiliacion/imagen_69a00cbe9a60b.jpeg",
+        "isquad_id": "1053136",
+        "nombre": "CLAUDIA CAMILA CRUZ RAPALO",
+        "equipo": "C.R. EL SALVADOR EMERGING",
+        "id_club": "21",
+        "escudo": "square_726b7461656e75357439.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/foto/square_37796164707731756334.jpg",
         "total_pts": 0,
         "total_count": 1,
         "detalles": [
