@@ -1,7 +1,7 @@
 {
   "torneo_id": "521",
   "nombre": "Liga Senior Femenino",
-  "timestamp": "2026-08-30T22:22:39Z",
+  "timestamp": "2026-09-06T21:56:26Z",
   "clasificacion": [
     {
       "posicion": 1,
@@ -1539,12 +1539,12 @@
         ]
       },
       {
-        "isquad_id": "1027090",
-        "nombre": "TERESA DIEZ MARTIN",
-        "equipo": "C.R. EL SALVADOR EMERGING",
-        "id_club": "21",
-        "escudo": "square_726b7461656e75357439.jpg",
-        "foto": "//rugby.isquad.es/images/afiliacion/square_747035706c6a78346879.jpg",
+        "isquad_id": "1027344",
+        "nombre": "ALISHA HIGUERA TORRES",
+        "equipo": "CORMORÁN RUGBY CLUB DE SANTANDER",
+        "id_club": "122",
+        "escudo": "square_31626735797977757933.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/foto/square_6b363873357676373062.jpg",
         "total_pts": 10,
         "total_count": 2,
         "detalles": [
@@ -1557,12 +1557,12 @@
         ]
       },
       {
-        "isquad_id": "1027344",
-        "nombre": "ALISHA HIGUERA TORRES",
-        "equipo": "CORMORÁN RUGBY CLUB DE SANTANDER",
-        "id_club": "122",
-        "escudo": "square_31626735797977757933.jpg",
-        "foto": "//rugby.isquad.es/images/afiliacion/foto/square_6b363873357676373062.jpg",
+        "isquad_id": "1027090",
+        "nombre": "TERESA DIEZ MARTIN",
+        "equipo": "C.R. EL SALVADOR EMERGING",
+        "id_club": "21",
+        "escudo": "square_726b7461656e75357439.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_747035706c6a78346879.jpg",
         "total_pts": 10,
         "total_count": 2,
         "detalles": [
@@ -1773,12 +1773,12 @@
         ]
       },
       {
-        "isquad_id": "1025845",
-        "nombre": "BARBARA  BERNARDOS MARTIN",
-        "equipo": "C.R. EL SALVADOR EMERGING",
-        "id_club": "21",
-        "escudo": "square_726b7461656e75357439.jpg",
-        "foto": "//rugby.isquad.es/images/afiliacion/square_6336706f726370376e65.jpg",
+        "isquad_id": "1023238",
+        "nombre": "CRISTINA DEL CAMPO ALONSO",
+        "equipo": "CIUDAD DE OVIEDO RUGBY",
+        "id_club": "11",
+        "escudo": "square_38396e6b6b6b77673431.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_67627633303579726179.jpg",
         "total_pts": 5,
         "total_count": 1,
         "detalles": [
@@ -1791,12 +1791,12 @@
         ]
       },
       {
-        "isquad_id": "1023238",
-        "nombre": "CRISTINA DEL CAMPO ALONSO",
-        "equipo": "CIUDAD DE OVIEDO RUGBY",
-        "id_club": "11",
-        "escudo": "square_38396e6b6b6b77673431.jpg",
-        "foto": "//rugby.isquad.es/images/afiliacion/square_67627633303579726179.jpg",
+        "isquad_id": "1025845",
+        "nombre": "BARBARA  BERNARDOS MARTIN",
+        "equipo": "C.R. EL SALVADOR EMERGING",
+        "id_club": "21",
+        "escudo": "square_726b7461656e75357439.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_6336706f726370376e65.jpg",
         "total_pts": 5,
         "total_count": 1,
         "detalles": [
@@ -1881,12 +1881,12 @@
         ]
       },
       {
-        "isquad_id": "1026712",
-        "nombre": "SOFIA DEL RIVERO CASANUEVA",
-        "equipo": "GIJÓN RUGBY CLUB SENIOR FEMENINO",
-        "id_club": "71",
-        "escudo": "square_78747576656468373463.jpg",
-        "foto": "//rugby.isquad.es/images/afiliacion/square_683169736f3533796866.jpg",
+        "isquad_id": "1027685",
+        "nombre": "LUCIA  FANO LLORENTE",
+        "equipo": "CIUDAD DE OVIEDO RUGBY",
+        "id_club": "11",
+        "escudo": "square_38396e6b6b6b77673431.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_746b64646a7239386539.jpg",
         "total_pts": 5,
         "total_count": 1,
         "detalles": [
@@ -1899,12 +1899,12 @@
         ]
       },
       {
-        "isquad_id": "1027685",
-        "nombre": "LUCIA  FANO LLORENTE",
-        "equipo": "CIUDAD DE OVIEDO RUGBY",
-        "id_club": "11",
-        "escudo": "square_38396e6b6b6b77673431.jpg",
-        "foto": "//rugby.isquad.es/images/afiliacion/square_746b64646a7239386539.jpg",
+        "isquad_id": "1026712",
+        "nombre": "SOFIA DEL RIVERO CASANUEVA",
+        "equipo": "GIJÓN RUGBY CLUB SENIOR FEMENINO",
+        "id_club": "71",
+        "escudo": "square_78747576656468373463.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_683169736f3533796866.jpg",
         "total_pts": 5,
         "total_count": 1,
         "detalles": [
