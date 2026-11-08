@@ -1,7 +1,7 @@
 {
   "torneo_id": "521",
   "nombre": "Liga Senior Femenino",
-  "timestamp": "2026-11-01T23:21:16Z",
+  "timestamp": "2026-11-08T23:24:47Z",
   "clasificacion": [
     {
       "posicion": 1,
@@ -584,12 +584,12 @@
         ]
       },
       {
-        "isquad_id": "1027278",
-        "nombre": "ISABEL SIERRA MARTIN",
-        "equipo": "C.R. EL SALVADOR EMERGING",
-        "id_club": "21",
-        "escudo": "square_726b7461656e75357439.jpg",
-        "foto": "//rugby.isquad.es/images/afiliacion/square_62366176656e68797570.jpg",
+        "isquad_id": "1027546",
+        "nombre": "ANA FERNANDEZ GONZALEZ",
+        "equipo": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
+        "id_club": "23",
+        "escudo": "square_323530623173766c706f.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_62787739306a6b693461.jpg",
         "total_pts": 25,
         "total_count": 5,
         "detalles": [
@@ -602,12 +602,12 @@
         ]
       },
       {
-        "isquad_id": "1027546",
-        "nombre": "ANA FERNANDEZ GONZALEZ",
-        "equipo": "TERRITORIAL FEMENINO VRAC QUESOS ENTREPINARES",
-        "id_club": "23",
-        "escudo": "square_323530623173766c706f.jpg",
-        "foto": "//rugby.isquad.es/images/afiliacion/square_62787739306a6b693461.jpg",
+        "isquad_id": "1027278",
+        "nombre": "ISABEL SIERRA MARTIN",
+        "equipo": "C.R. EL SALVADOR EMERGING",
+        "id_club": "21",
+        "escudo": "square_726b7461656e75357439.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_62366176656e68797570.jpg",
         "total_pts": 25,
         "total_count": 5,
         "detalles": [
@@ -1021,7 +1021,7 @@
         "equipo": "UNIVERSIDAD DE SALAMANCA",
         "id_club": "135",
         "escudo": "square_7834667963796a387338.jpg",
-        "foto": "//rugby.isquad.es/images/afiliacion/imagen_68d6a3d922b61.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/imagen_6af0d045e6745.jpg",
         "total_pts": 10,
         "total_count": 2,
         "detalles": [
@@ -1430,12 +1430,12 @@
         ]
       },
       {
-        "isquad_id": "1026712",
-        "nombre": "SOFIA DEL RIVERO CASANUEVA",
-        "equipo": "GIJÓN RUGBY CLUB SENIOR FEMENINO",
-        "id_club": "71",
-        "escudo": "square_78747576656468373463.jpg",
-        "foto": "//rugby.isquad.es/images/afiliacion/square_683169736f3533796866.jpg",
+        "isquad_id": "1027685",
+        "nombre": "LUCIA  FANO LLORENTE",
+        "equipo": "CIUDAD DE OVIEDO RUGBY",
+        "id_club": "11",
+        "escudo": "square_38396e6b6b6b77673431.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_746b64646a7239386539.jpg",
         "total_pts": 5,
         "total_count": 1,
         "detalles": [
@@ -1448,12 +1448,12 @@
         ]
       },
       {
-        "isquad_id": "1027685",
-        "nombre": "LUCIA  FANO LLORENTE",
-        "equipo": "CIUDAD DE OVIEDO RUGBY",
-        "id_club": "11",
-        "escudo": "square_38396e6b6b6b77673431.jpg",
-        "foto": "//rugby.isquad.es/images/afiliacion/square_746b64646a7239386539.jpg",
+        "isquad_id": "1026712",
+        "nombre": "SOFIA DEL RIVERO CASANUEVA",
+        "equipo": "GIJÓN RUGBY CLUB SENIOR FEMENINO",
+        "id_club": "71",
+        "escudo": "square_78747576656468373463.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_683169736f3533796866.jpg",
         "total_pts": 5,
         "total_count": 1,
         "detalles": [
