@@ -1,7 +1,7 @@
 {
   "torneo_id": "521",
   "nombre": "Liga Senior Femenino",
-  "timestamp": "2026-11-08T23:24:47Z",
+  "timestamp": "2026-11-15T23:43:57Z",
   "clasificacion": [
     {
       "posicion": 1,
@@ -1628,12 +1628,12 @@
         ]
       },
       {
-        "isquad_id": "1023058",
-        "nombre": "SARA NARANJO NIELFA",
-        "equipo": "CORMORÁN RUGBY CLUB DE SANTANDER",
-        "id_club": "122",
-        "escudo": "square_31626735797977757933.jpg",
-        "foto": "//rugby.isquad.es/images/afiliacion/square_7630756374706f796375.jpg",
+        "isquad_id": "1023654",
+        "nombre": "PATRICIA ALVAREZ GARCIA",
+        "equipo": "CIUDAD DE OVIEDO RUGBY",
+        "id_club": "11",
+        "escudo": "square_38396e6b6b6b77673431.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_7239796f756a66797066.jpg",
         "total_pts": 5,
         "total_count": 1,
         "detalles": [
@@ -1646,12 +1646,12 @@
         ]
       },
       {
-        "isquad_id": "1023654",
-        "nombre": "PATRICIA ALVAREZ GARCIA",
-        "equipo": "CIUDAD DE OVIEDO RUGBY",
-        "id_club": "11",
-        "escudo": "square_38396e6b6b6b77673431.jpg",
-        "foto": "//rugby.isquad.es/images/afiliacion/square_7239796f756a66797066.jpg",
+        "isquad_id": "1023058",
+        "nombre": "SARA NARANJO NIELFA",
+        "equipo": "CORMORÁN RUGBY CLUB DE SANTANDER",
+        "id_club": "122",
+        "escudo": "square_31626735797977757933.jpg",
+        "foto": "//rugby.isquad.es/images/afiliacion/square_7630756374706f796375.jpg",
         "total_pts": 5,
         "total_count": 1,
         "detalles": [
